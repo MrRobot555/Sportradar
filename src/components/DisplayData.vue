@@ -105,6 +105,6 @@ export default {
         width : 100%;
     }
     .myMinWidth {
-        min-width : 5em;
+        min-width : 7em;
     }
 </style>
